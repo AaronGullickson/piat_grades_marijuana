@@ -4,7 +4,7 @@ For this project, we will use data extracted from the [National Longitudinal Sur
 
 We are going to use data the NLSY97 collected on the college transcripts of these respondents that allows us to calculate their college GPA. Because our sample is restricted to only those respondents who completed  and provided transcripts, it is smaller than the full NLSY97 sample. We are also only working with a small extract of the full number of variables available in the NLSY97.
 
-From the full data, I have extracted and recoded the following variables for our use as an analytical dataset. To load this dataset in R, you just need to run the setup code chunk in the full_report.Rmd R Markdown document. The name of the dataset in R is `NAME`. 
+From the full data, I have extracted and recoded the following variables for our use as an analytical dataset. To load this dataset in R, you just need to run the setup code chunk in the full_report.Rmd R Markdown document. The name of the dataset in R is `nlsy`. 
 
 * **gpa_college**: The overall cumulative GPA of the respondents in undergraduate courses (including those taken towards an associate's degree). This is the key dependent variable.
 * **marijuana_use**: In each wave, the respondent was asked how many days out of the previous 30 days that they had smoked marijuana. I take the average response to this question from the period when the respondent was 18-23. This is the key independent variable.
