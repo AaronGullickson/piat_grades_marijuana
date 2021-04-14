@@ -44,7 +44,6 @@ model2 <- lm()
 model3 <- lm()
 model4 <- lm()
 
-#change from screenreg to texreg for knitting
 knitreg(list(model1, model2, model3, model4),
         caption="A caption",
         caption.above = TRUE,
