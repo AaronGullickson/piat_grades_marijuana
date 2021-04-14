@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on College Grades and Marijuana Use
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+You will use data from the National Longitudinal Study of Youth 1997, to look at the relationship between marijuana use and college GPA among students who have completed a four-year degree. You will also examine how this relationship varies by gender.
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the relationship between frequency of marijuana use as a young adult and college GPA? 
+2. How does the relationship between marijuana use and college GPA vary by gender. 
 
 ## Technical Details
 
